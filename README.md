@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Osho</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/osho0007/osho0007/assets/101701482/2bc1c05d-5826-45ae-98d4-088a1bf4c50f">
-![giphydata](https://github.com/osho0007/osho0007/assets/101701482/2bc1c05d-5826-45ae-98d4-088a1bf4c50f)
 
 - 🔭 I’m currently working on **Azure**
 
