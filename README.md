@@ -1,7 +1,8 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Osho</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="![Datameme](https://github.com/osho0007/osho0007/assets/101701482/f1318014-f451-41bb-8543-abe912e2ad27)">
+<img align="right" alt="Coding" width="400" src="https://github.com/osho0007/osho0007/assets/101701482/2bc1c05d-5826-45ae-98d4-088a1bf4c50f">
+![giphydata](https://github.com/osho0007/osho0007/assets/101701482/2bc1c05d-5826-45ae-98d4-088a1bf4c50f)
 
 - 🔭 I’m currently working on **Azure**
 
